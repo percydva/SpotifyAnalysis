@@ -1,0 +1,16 @@
+notebook
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+pandas
+numpy
+spotipy
+matplotlib
+json
+time
+sys
+seaborn
+sklearn
+yeallowbrick
+scipy
+statsmodel
+imblearn
