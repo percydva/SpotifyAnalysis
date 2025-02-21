@@ -1,4 +1,6 @@
 # Spotify Data Science Project
+### Contribution:
+Viet Anh Duong: Project Architecture, Full-stack Developer
 
 ## Setup
 You will need Git, Python 3.7+, Jupyter Notebook installed on your machine.
