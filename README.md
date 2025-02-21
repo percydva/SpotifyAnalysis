@@ -1,6 +1,7 @@
 # Spotify Data Science Project
 ### Contribution:
 Viet Anh Duong: Project Architecture, Full-stack Developer
+
 Nguyen Dang Khoa Pham: Data Analyst, Full-stack Developer
 
 ## Setup
